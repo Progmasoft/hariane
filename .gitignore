@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2026 Progmasoft <support@progmasoft.com>
+# SPDX-License-Identifier: MIT
+
+dist-newstyle/
+.stack-work/
+*.hi
+*.o
+cabal.project.local*
+.ghc.environment.*
